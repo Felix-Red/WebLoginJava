@@ -19,3 +19,5 @@ This is a simple Java web application that implements user login and registratio
 - **Database**: PostgreSQL
 - **Server**: Apache Tomcat or GlassFish
 
+## Screenshots
+![](https://github.com/Felix-Red/WebLoginJava/blob/master/welcomePage.png)
