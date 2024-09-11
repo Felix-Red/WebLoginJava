@@ -21,3 +21,4 @@ This is a simple Java web application that implements user login and registratio
 
 ## Screenshots
 ![](https://github.com/Felix-Red/WebLoginJava/blob/master/welcomePage.png)
+![](https://github.com/Felix-Red/WebLoginJava/blob/master/loginPage.png)
